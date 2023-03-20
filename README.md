@@ -1,8 +1,7 @@
 # how-to-use-api
 
 
-<?php
-// defined('BASEPATH') OR exit('No direct script access allowed');
+
 
 use GuzzleHttp\Client;
 
